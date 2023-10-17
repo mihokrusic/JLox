@@ -1,3 +1,0 @@
-var input = 50
-var output = input * 2 / 3
-print output
